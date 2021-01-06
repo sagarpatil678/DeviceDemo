@@ -1,0 +1,4 @@
+D:\Project\DeviceBackEnd\Publisher_API.Data\obj\Debug\netcoreapp3.1\Publisher_API.Data.csprojAssemblyReference.cache
+D:\Project\DeviceBackEnd\Publisher_API.Data\obj\Debug\netcoreapp3.1\Publisher_API.Data.AssemblyInfoInputs.cache
+D:\Project\DeviceBackEnd\Publisher_API.Data\obj\Debug\netcoreapp3.1\Publisher_API.Data.AssemblyInfo.cs
+D:\Project\DeviceBackEnd\Publisher_API.Data\obj\Debug\netcoreapp3.1\Publisher_API.Data.csproj.CoreCompileInputs.cache
